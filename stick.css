@@ -1,0 +1,46 @@
+.button
+{
+ height: 120px;
+  width: 5%;
+  position: relative;
+  margin-right: 5%;
+  font-weight: bold;
+  font-size: 2rem;
+  border: solid 3px;
+  border-color: black;
+
+
+}
+.set
+{
+  position: relative;
+  left: 25%;
+  margin-top: 15%;
+}
+h1
+{
+  text-align: center;
+  font-size: 4rem;
+
+  border: solid 1px;
+  font-family: "Sofia","sans-serif";
+  transition: 2s;
+
+
+}
+body
+{
+  background-color: #FFE4E1;
+}
+.button:hover
+{
+  background-color: #A9A9A9;
+  font-family: "Sofia","sans-serif";
+  transition: 1s;s
+}
+h1:hover
+{
+  transition: 2s;
+  background-color: #FFB6C1;
+
+}
